@@ -133,7 +133,7 @@ header a:hover{
 	margin: 5px;
 }
 #boxes .box:hover{
-	border: 100px yellow solid;
+	background-color: #d0dbd5;
 }
 #boxes .box img{
 	width: 90px;
