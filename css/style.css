@@ -38,9 +38,10 @@ ul {
 header{
 	background: #35424a;
 	color: #ffffff;
-	padding-top: 30px;
+	padding-top: 10px;
 	min-height: 70px;
 	border-bottom: #e8491d 3px solid;
+	margin-top: 0px;
 }
 header a{
 	color: #ffffff;
@@ -59,13 +60,20 @@ header li{
 header #branding{
 	float: left;
 }
+header #branding img{
+	float: left;
+	width: 180px;
+	margin-top: 0px;
+}
 
 header #branding h1{
 	margin:0;
+	float: right;
+	margin-top: 50px;
 }
 header nav {
 	float: right;
-	margin-top: 10px;
+	margin-top: 60px;
 }
 
 header .highlight, header .current a{
